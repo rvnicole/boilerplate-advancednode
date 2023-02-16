@@ -17,7 +17,7 @@ app.use(express.urlencoded({ extended: true }));
 app.route('/').get((req, res) => {
   res.render( 'index', {
     title: 'Hello', 
-    menssage: 'Please log in'
+    message: 'Please log in'
   });
 });
 
