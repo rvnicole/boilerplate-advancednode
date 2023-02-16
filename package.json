@@ -37,8 +37,5 @@
     "passport",
     "socketio"
   ],
-  "license": "MIT",
-  "devDependencies": {
-    "nodemon": "^2.0.20"
-  }
+  "license": "MIT"
 }
